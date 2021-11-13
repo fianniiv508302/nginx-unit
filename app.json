@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/fianniiv508302/nginx-unit",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
